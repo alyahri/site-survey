@@ -1,0 +1,2 @@
+# Site Survey
+Upload the contents of this folder to the root of a GitHub repository, then enable Pages from main / (root). Only deploy these generic application files. Import documents locally. Open the HTTPS URL in Safari and add to Home Screen. Wait for Offline app ready, then test airplane mode, Excel import, PDF display, saving and exports. Reimport documents after reopening as needed. The existing PDF viewer is browser-native; single-page rendering is not included. Survey findings use localStorage; export backups regularly.
